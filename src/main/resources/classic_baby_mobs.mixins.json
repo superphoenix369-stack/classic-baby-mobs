@@ -1,0 +1,21 @@
+{
+	"required": true,
+	"package": "com.classicbabymobs.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"CatCollarLayerMixin",
+		"CatRendererMixin",
+		"DrownedOuterLayerMixin",
+		"HumanoidArmorLayerMixin",
+		"ItemInHandLayerMixin",
+		"LivingEntityRendererMixin",
+		"LlamaDecorLayerMixin",
+		"SheepWoolLayerMixin",
+		"SheepWoolUndercoatLayerMixin",
+		"VillagerProfessionLayerMixin",
+		"WolfMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

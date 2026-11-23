@@ -1,0 +1,20 @@
+{
+	"classic_baby_mobs.title": "Classic Baby Mobs",
+	"classic_baby_mobs.option.enabled": "Classic Baby Mobs",
+	"classic_baby_mobs.option.enabled.tooltip": "Master switch. When OFF, every baby uses its new Tiny Takeover look regardless of the choices below.",
+	"classic_baby_mobs.value.classic": "Classic",
+	"classic_baby_mobs.value.new": "New",
+	"classic_baby_mobs.value.classic.tooltip": "Looks like it did before Tiny Takeover (1.21.11 and earlier).",
+	"classic_baby_mobs.value.new.tooltip": "Uses the new Tiny Takeover (26.1+) look.",
+	"classic_baby_mobs.button.all_classic": "All Classic",
+	"classic_baby_mobs.button.all_new": "All New",
+	"classic_baby_mobs.group.farm": "Farm Animals",
+	"classic_baby_mobs.group.mounts": "Mounts",
+	"classic_baby_mobs.group.pets": "Pets",
+	"classic_baby_mobs.group.wild": "Wild Animals",
+	"classic_baby_mobs.group.water": "Water Mobs",
+	"classic_baby_mobs.group.nether": "Nether Mobs",
+	"classic_baby_mobs.group.villagers": "Villagers & Zombies",
+	"key.classic_baby_mobs.open_menu": "Open Classic Baby Mobs menu",
+	"key.category.classic_baby_mobs.main": "Classic Baby Mobs"
+}

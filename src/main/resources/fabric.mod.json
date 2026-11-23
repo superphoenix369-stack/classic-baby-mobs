@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "classic_baby_mobs",
+	"version": "${version}",
+	"name": "Classic Baby Mobs",
+	"description": "Brings back the pre-Tiny Takeover look of baby mobs, chosen per mob in an options menu. Client-side only.",
+	"authors": [],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/classic_baby_mobs/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.classicbabymobs.ClassicBabyMobs"
+		],
+		"modmenu": [
+			"com.classicbabymobs.compat.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"classic_baby_mobs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
